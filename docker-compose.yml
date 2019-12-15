@@ -1,0 +1,12 @@
+version: "3"
+services:
+  gitlab:
+    image: gitlab/gitlab-ce:latest
+    ports:
+      - 443:443
+      - 80:80
+      - 22:22
+  plantuml:
+    image: plantuml/plantuml-server:jetty
+    ports:
+      - 8080:8080
