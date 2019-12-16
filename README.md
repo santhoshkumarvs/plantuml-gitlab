@@ -1,5 +1,5 @@
 This repository is an example of GitLab & PlantUML integration, to go along 
-with the article at [tomgregory.com](https://tomgregory.com/using-plantuml-for-documentation-within-a-gitlab-wiki).
+with the article at [tomgregory.com](https://tomgregory.com/using-plantuml-for-digrams-in-a-gitlab-wiki).
 
 ## Pre-requisites
 
